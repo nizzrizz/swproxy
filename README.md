@@ -17,7 +17,7 @@ Tutorial Video : [Youtube]()
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/nizzrizz/swproxy.git]
+git clone https://github.com/nizzrizz/swproxy.git
 ```
 
 ```bash
