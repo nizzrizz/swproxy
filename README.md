@@ -93,7 +93,7 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/nizzrizz)
+github : [nizzrizz](https://github.com/nizzrizz)
 
 twitter : @NRTechYT
 
