@@ -10,7 +10,7 @@ EVM :
 0xFc46b12Ac015180D4494051bFa7b6327E287F814
 ```
 
-Tutorial Video : [Youtube]()
+Tutorial Video : [Youtube]
 
 ## Steps
 
