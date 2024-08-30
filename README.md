@@ -7,21 +7,21 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0xFc46b12Ac015180D4494051bFa7b6327E287F814
 ```
 
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
+Tutorial Video : [Youtube]()
 
 ## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone [https://github.com/nizzrizz/swproxy.git]
 ```
 
 ```bash
-cd swisstronik-deploy-proxy
+cd swproxy
 ```
 
 ### 2. Install Dependency
@@ -93,13 +93,13 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/Mnuralim)
+github : [Mnuralim](https://github.com/nizzrizz)
 
-twitter : @Izzycracker04
+twitter : @NRTechYT
 
-telegram : @fitriay19
+telegram : @NRTechYT
 
-youtube : https://www.youtube.com/@IzzyTSN
+youtube : https://www.youtube.com/@NRTechYT
 
 Ignore this!!!
 
