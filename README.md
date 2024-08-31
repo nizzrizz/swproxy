@@ -80,24 +80,29 @@ npm run list-issuers
 npm run upgrade
 ```
 
-### 10. Finsihed
+### 10. Push Origin
+
+```bash
+git add . && git commit -m "feat: initiated the project" && git push origin main
+```
+
+### 11. Finsihed
 
 - Open the deployed-adddress.ts file (location in utils folder)
 - Select SWTRProxy
 - Copy the address and paste the address into testnet dashboard(Point1)
-- Open address-with-explorer.txt file (location in utils folder)
-- Copy the address explorer and paste the address into testnet dashboard(Point2)
+- open github repository (click on code/local)
+- Copy the link and paste the address into testnet dashboard(Point2)
 - Open tx-hash.txt file (location in utils folder)
 - Copy the transaction hash link and paste the address into testnet dashboard(Point3)
-- No need push to github
 
 by :
 
 github : [nizzrizz](https://github.com/nizzrizz)
 
-twitter : @NRTechYT
+twitter : [@NRTechYT](https://twitter.com/NRTechYT)
 
-telegram : @NRTechYT
+telegram : [@NRTechYT](https://telegram.me/NRTechYT)
 
 youtube : https://www.youtube.com/@NRTechYT
 
